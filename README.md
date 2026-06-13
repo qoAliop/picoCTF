@@ -43,3 +43,10 @@ difficulty: easy
 date: 2026/6/13
 points: 100
 ---
+7)
+challenge: Smart_Overflow by OB
+category: Blockchain
+difficulty: Medium
+date: 2026/6/13
+points: 300
+---
