@@ -36,4 +36,10 @@ difficulty: easy
 date: 2026/6/12
 points: 50
 ---
-
+6)
+challenge: Crack the Gate 1 by Yahaya Meddy
+category: Web Exploitation
+difficulty: easy
+date: 2026/6/13
+points: 100
+---
