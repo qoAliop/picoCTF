@@ -50,3 +50,10 @@ difficulty: Medium
 date: 2026/6/13
 points: 300
 ---
+8)
+challenge: Undo by Yahaya Meddy
+category: General Skills
+difficulty: Easy
+date: 2026/6/14
+points: 100
+---
