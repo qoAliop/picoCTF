@@ -57,3 +57,17 @@ difficulty: Easy
 date: 2026/6/14
 points: 100
 ---
+9)
+challenge: MY GIT by Darkraicg492
+category: General Skills
+difficulty: Easy
+date: 2026/6/14
+points: 50
+---
+10)
+challenge: bytemancy 1 by LT 'syreal' Jones
+category: General Skills
+difficulty: Easy
+date: 2026/6/14
+points: 100
+---
