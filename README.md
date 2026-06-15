@@ -92,3 +92,10 @@ difficulty: Easy
 date: 2026/6/15
 points: 50
 ---
+14)
+challenge: Shared Secrets by Yahaya Meddy
+category: Cryptography
+difficulty: Easy
+date: 2026/6/15
+points: 100
+---
