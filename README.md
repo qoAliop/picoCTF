@@ -99,3 +99,10 @@ difficulty: Easy
 date: 2026/6/15
 points: 100
 ---
+15)
+challenge: Flag in Flame by Prince Niyonshuti N.
+category: Forensics
+difficulty: Easy
+date: 2026/6/15
+points: 100
+---
