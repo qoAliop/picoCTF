@@ -71,3 +71,24 @@ difficulty: Easy
 date: 2026/6/14
 points: 100
 ---
+11)
+challenge: Quizploit by Aditya Sudhansu
+category: Binary Exploitation
+difficulty: Easy
+date: 2026/6/15
+points: 50
+---
+12)
+challenge: heap 0 by Abrxs, pr1or1tyQ
+category: Binary Exploitation
+difficulty: Easy
+date: 2026/6/15
+points: 50
+---
+13)
+challenge: format string 0 by Cheng Zhang
+category: Binary Exploitation
+difficulty: Easy
+date: 2026/6/15
+points: 50
+---
