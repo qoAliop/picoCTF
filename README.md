@@ -7,14 +7,14 @@ category: web exploitation
 difficulty: easy
 date: 2026/6/12
 points: 100
----
+__
 2)
 challenge: Cookie Monster Secret Recipe by Brhane Giday and Prince Niyonshuti N.
 category: web exploitation
 difficulty: easy
 date: 2026/6/12
 points: 50
----
+__
 3)
 challenge: hashcrack by Nana Ama Atombo-Sackey
 category: Cryptography
