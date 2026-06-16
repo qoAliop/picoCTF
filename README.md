@@ -107,6 +107,20 @@ date: 2026/6/15
 points: 100
 ---
 16)
+challenge: Rust fixme 1 by Taylor McCampbell
+category: General Skills
+difficulty: Easy
+date: 2026/6/16
+points: 100
+---
+17)
+challenge: Rust fixme 2 by Taylor McCampbell
+category: General Skills
+difficulty: Easy
+date: 2026/6/16
+points: 100
+---
+18)
 challenge: Rust fixme 3 by Taylor McCampbell
 category: General Skills
 difficulty: Easy
