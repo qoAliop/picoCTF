@@ -134,3 +134,10 @@ difficulty: Easy
 date: 2026/6/18
 points: 100
 ---
+20)
+challenge: Local Authority
+category: Web Exploitation
+difficulty: Easy
+date: 2026/6/18
+points: 100
+---
