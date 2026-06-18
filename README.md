@@ -127,3 +127,10 @@ difficulty: Easy
 date: 2026/6/16
 points: 100
 ---
+19)
+challenge: Hidden in plainsight by Yahaya Meddy
+category: Forensics
+difficulty: Easy
+date: 2026/6/18
+points: 100
+---
