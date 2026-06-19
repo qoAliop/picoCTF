@@ -141,3 +141,31 @@ difficulty: Easy
 date: 2026/6/18
 points: 100
 ---
+21)
+challenge: EVEN RSA CAN BE BROKEN??? by Michael Crotty
+category: Cryptography
+difficulty: Easy
+date: 2026/6/19
+points: 200
+---
+22)
+challenge: Unminify by Jeffery John
+category: Web Exploitation
+difficulty: Easy
+date: 2026/6/19
+points: 100
+---
+22)
+challenge: Includes by LT 'syreal' Jones
+category: Web Exploitation
+difficulty: Easy
+date: 2026/6/19
+points: 100
+---
+22)
+challenge: dont-use-client-side by Alex Fulton/Danny
+category: Web Exploitation
+difficulty: Easy
+date: 2026/6/19
+points: 100
+---
