@@ -169,3 +169,31 @@ difficulty: Easy
 date: 2026/6/19
 points: 100
 ---
+23)
+challenge: Timestamped Secrets by Yahaya Meddy
+category: Cryptography
+difficulty: Medium
+date: 2026/6/22
+points: 200
+---
+24)
+challenge: Small Trouble by Yahaya Meddy
+category: Cryptography
+difficulty: Medium
+date: 2026/6/22
+points: 200
+---
+25)
+challenge: shift registers by Philip Thayer
+category: Cryptography
+difficulty: Medium
+date: 2026/6/22
+points: 200
+---
+26)
+challenge: Not TRUe by ishaanharry
+category: Cryptography
+difficulty: Medium
+date: 2026/6/22
+points: 400
+---
