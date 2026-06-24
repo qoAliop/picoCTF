@@ -197,3 +197,67 @@ difficulty: Medium
 date: 2026/6/22
 points: 400
 ---
+27)
+challenge: Password Profiler by Yahaya Meddy
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 100
+---
+28)
+challenge: MultiCode by Yahaya Meddy
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 200
+---
+29)
+challenge: Binary Digits by Yahaya Meddy
+category: Forensics
+difficulty: Easy
+date: 2026/6/24
+points: 100
+---
+30)
+challenge: Log Hunt by Yahaya Meddy 
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 50
+---
+31)
+challenge: Log Hunt by Yahaya Meddy 
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 50
+---
+32)
+challenge: Printer Shares by Janice He
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 50
+---
+33)
+challenge: ping-cmd by Yahaya Meddy
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 100
+---
+34)
+challenge: bytemancy 0 by LT 'syreal' Jones
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 50
+---
+35)
+challenge: Piece by Piece by Yahaya Meddy
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 50
+---
+
