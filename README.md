@@ -267,3 +267,10 @@ difficulty: Easy
 date: 2026/6/26
 points: 100
 ---
+36)
+challenge: Riddle Registry by Prince Niyonshuti N.
+category: Forensics
+difficulty: Easy
+date: 2026/6/26
+points: 50
+---
