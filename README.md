@@ -260,4 +260,10 @@ difficulty: Easy
 date: 2026/6/24
 points: 50
 ---
-
+36)
+challenge: Corrupted file by Yahaya Meddy
+category: Forensics
+difficulty: Easy
+date: 2026/6/26
+points: 100
+---
