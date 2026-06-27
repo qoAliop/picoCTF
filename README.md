@@ -267,10 +267,24 @@ difficulty: Easy
 date: 2026/6/26
 points: 100
 ---
-36)
+37)
 challenge: Riddle Registry by Prince Niyonshuti N.
 category: Forensics
 difficulty: Easy
 date: 2026/6/26
 points: 50
+---
+38)
+challenge: PIE TIME by Darkraicg492
+category: Binary Exploitation
+difficulty: Easy
+date: 2026/6/27
+points: 75
+---
+39)
+challenge: SSTI1 by Venax
+category: Web Exploitation
+difficulty: Easy
+date: 2026/6/27
+points: 100
 ---
