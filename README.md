@@ -288,3 +288,10 @@ difficulty: Easy
 date: 2026/6/27
 points: 100
 ---
+40)
+challenge: head-dump by Prince Niyonshuti N.
+category: Web Exploitation
+difficulty: Easy
+date: 2026/7/1
+points: 50
+---
