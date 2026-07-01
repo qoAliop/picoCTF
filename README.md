@@ -295,3 +295,38 @@ difficulty: Easy
 date: 2026/7/1
 points: 50
 ---
+41)
+challenge: RED by Shuailin Pan (LeConjuror)
+category: Forensics
+difficulty: Easy
+date: 2026/7/1
+points: 100
+---
+42)
+challenge: Verify by Jeffery John
+category: Forensics
+difficulty: Easy
+date: 2026/7/1
+points: 50
+---
+43)
+challenge: Binary Search by Jeffery John
+category: General Skills
+difficulty: Easy
+date: 2026/7/1
+points: 100
+---
+44)
+challenge: Time Machine by Jeffery John
+category: General Skills
+difficulty: Easy
+date: 2026/7/1
+points: 50
+---
+45)
+challenge: WebDecode by Nana Ama Atombo-Sackey
+category: Web Exploitation
+difficulty: Easy
+date: 2026/7/1
+points: 50
+---
