@@ -155,175 +155,175 @@ difficulty: Easy
 date: 2026/6/19
 points: 100
 ---
-22)
+23)
 challenge: Includes by LT 'syreal' Jones
 category: Web Exploitation
 difficulty: Easy
 date: 2026/6/19
 points: 100
 ---
-22)
+24)
 challenge: dont-use-client-side by Alex Fulton/Danny
 category: Web Exploitation
 difficulty: Easy
 date: 2026/6/19
 points: 100
 ---
-23)
+25)
 challenge: Timestamped Secrets by Yahaya Meddy
 category: Cryptography
 difficulty: Medium
 date: 2026/6/22
 points: 200
 ---
-24)
+26)
 challenge: Small Trouble by Yahaya Meddy
 category: Cryptography
 difficulty: Medium
 date: 2026/6/22
 points: 200
 ---
-25)
+27)
 challenge: shift registers by Philip Thayer
 category: Cryptography
 difficulty: Medium
 date: 2026/6/22
 points: 200
 ---
-26)
+28)
 challenge: Not TRUe by ishaanharry
 category: Cryptography
 difficulty: Medium
 date: 2026/6/22
 points: 400
 ---
-27)
+29)
 challenge: Password Profiler by Yahaya Meddy
 category: General Skills
 difficulty: Easy
 date: 2026/6/24
 points: 100
 ---
-28)
+30)
 challenge: MultiCode by Yahaya Meddy
 category: General Skills
 difficulty: Easy
 date: 2026/6/24
 points: 200
 ---
-29)
+31)
 challenge: Binary Digits by Yahaya Meddy
 category: Forensics
 difficulty: Easy
 date: 2026/6/24
 points: 100
 ---
-30)
-challenge: Log Hunt by Yahaya Meddy 
-category: General Skills
-difficulty: Easy
-date: 2026/6/24
-points: 50
----
-31)
-challenge: Log Hunt by Yahaya Meddy 
-category: General Skills
-difficulty: Easy
-date: 2026/6/24
-points: 50
----
 32)
-challenge: Printer Shares by Janice He
+challenge: Log Hunt by Yahaya Meddy 
 category: General Skills
 difficulty: Easy
 date: 2026/6/24
 points: 50
 ---
 33)
-challenge: ping-cmd by Yahaya Meddy
+challenge: Log Hunt by Yahaya Meddy 
 category: General Skills
 difficulty: Easy
 date: 2026/6/24
-points: 100
+points: 50
 ---
 34)
-challenge: bytemancy 0 by LT 'syreal' Jones
+challenge: Printer Shares by Janice He
 category: General Skills
 difficulty: Easy
 date: 2026/6/24
 points: 50
 ---
 35)
+challenge: ping-cmd by Yahaya Meddy
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 100
+---
+36)
+challenge: bytemancy 0 by LT 'syreal' Jones
+category: General Skills
+difficulty: Easy
+date: 2026/6/24
+points: 50
+---
+37)
 challenge: Piece by Piece by Yahaya Meddy
 category: General Skills
 difficulty: Easy
 date: 2026/6/24
 points: 50
 ---
-36)
+38)
 challenge: Corrupted file by Yahaya Meddy
 category: Forensics
 difficulty: Easy
 date: 2026/6/26
 points: 100
 ---
-37)
+39)
 challenge: Riddle Registry by Prince Niyonshuti N.
 category: Forensics
 difficulty: Easy
 date: 2026/6/26
 points: 50
 ---
-38)
+40)
 challenge: PIE TIME by Darkraicg492
 category: Binary Exploitation
 difficulty: Easy
 date: 2026/6/27
 points: 75
 ---
-39)
+41)
 challenge: SSTI1 by Venax
 category: Web Exploitation
 difficulty: Easy
 date: 2026/6/27
 points: 100
 ---
-40)
+42)
 challenge: head-dump by Prince Niyonshuti N.
 category: Web Exploitation
 difficulty: Easy
 date: 2026/7/1
 points: 50
 ---
-41)
+43)
 challenge: RED by Shuailin Pan (LeConjuror)
 category: Forensics
 difficulty: Easy
 date: 2026/7/1
 points: 100
 ---
-42)
+44)
 challenge: Verify by Jeffery John
 category: Forensics
 difficulty: Easy
 date: 2026/7/1
 points: 50
 ---
-43)
+45)
 challenge: Binary Search by Jeffery John
 category: General Skills
 difficulty: Easy
 date: 2026/7/1
 points: 100
 ---
-44)
+46)
 challenge: Time Machine by Jeffery John
 category: General Skills
 difficulty: Easy
 date: 2026/7/1
 points: 50
 ---
-45)
+47)
 challenge: WebDecode by Nana Ama Atombo-Sackey
 category: Web Exploitation
 difficulty: Easy
