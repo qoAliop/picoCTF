@@ -50,8 +50,9 @@ the challenges i have done in Cylab "picoCTF"
 | 45 | Binary Search | Jeffery John | General Skills | Easy | 2026/7/1 | 100 |
 | 46 | Time Machine | Jeffery John | General Skills | Easy | 2026/7/1 | 50 |
 | 47 | WebDecode | Nana Ama Atombo-Sackey | Web Exploitation | Easy | 2026/7/1 | 50 |
-| 48 | Glory of the Garden | Jeffery John | Forensics | Easy | 2026/7/21 | 50 |
-| 49 | CanYouSee | by Mubarak Mikail | Forensics | Easy | 2026/7/21 | 100 |
-| 50 | IntroToBurp | by Nana Ama Atombo-Sackey & Sabine Gisagara | Web Exploitation | Easy | 2026/7/21 | 100 |
+| 48 | Glory of the Garden | Jeffery John | Forensics | Easy | 2026/7/20 | 50 |
+| 49 | CanYouSee | by Mubarak Mikail | Forensics | Easy | 2026/7/20 | 100 |
+| 50 | IntroToBurp | by Nana Ama Atombo-Sackey & Sabine Gisagara | Web Exploitation | Easy | 2026/7/20 | 100 |
+| 51 | Blame Game | by Jeffery John | General Skills | Easy | 2026/7/20 | 75 |
 
-**Total points: 5,225** 
+**Total points: 5,200** 
