@@ -52,4 +52,4 @@ the challenges i have done in Cylab "picoCTF"
 | 47 | WebDecode | Nana Ama Atombo-Sackey | Web Exploitation | Easy | 2026/7/1 | 50 |
 | 48 | Glory of the Garden | Jeffery John | Forensics | Easy | 2026/7/21 | 50 |
 
-**Total points: 4,825** across 48 entries (47 unique challenges — #32/#33 "Log Hunt" appear to be a duplicate entry).
+**Total points: 4,825** 
