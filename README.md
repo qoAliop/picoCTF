@@ -50,5 +50,6 @@ the challenges i have done in Cylab "picoCTF"
 | 45 | Piece by Piece | Yahaya Meddy | General Skills | Easy | 2026/6/24 | 50 |
 | 46 | Binary Search | Jeffery John | General Skills | Easy | 2026/7/1 | 100 |
 | 47 | Time Machine | Jeffery John | General Skills | Easy | 2026/7/1 | 50 |
+| 48 | Glory of the Garden | Jeffery John | Forensics | Easy | 2026/7/21 | 50 |
 
-**Total points: 4,675** 
+**Total points: 4,825** 
