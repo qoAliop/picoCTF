@@ -51,4 +51,4 @@ the challenges i have done in Cylab "picoCTF"
 | 46 | Binary Search | Jeffery John | General Skills | Easy | 2026/7/1 | 100 |
 | 47 | Time Machine | Jeffery John | General Skills | Easy | 2026/7/1 | 50 |
 
-**Total points: 4,675** across 47 entries (46 unique challenges — #40/#41 "Log Hunt" appear to be a duplicate entry).
+**Total points: 4,675** 
