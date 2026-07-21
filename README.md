@@ -51,5 +51,6 @@ the challenges i have done in Cylab "picoCTF"
 | 46 | Time Machine | Jeffery John | General Skills | Easy | 2026/7/1 | 50 |
 | 47 | WebDecode | Nana Ama Atombo-Sackey | Web Exploitation | Easy | 2026/7/1 | 50 |
 | 48 | Glory of the Garden | Jeffery John | Forensics | Easy | 2026/7/21 | 50 |
+| 49 | CanYouSee | by Mubarak Mikail | Forensics | Easy | 2026/7/21 | 100 |
 
-**Total points: 4,825** 
+**Total points: 4,925** 
